@@ -1,0 +1,2 @@
+Nutrition App, solving the problem of understanding the amount of food, calories, and places to eat on campus and around it,
+Map app – better version of the UT Austin maps to help movement on campus and figure out foot traffic
